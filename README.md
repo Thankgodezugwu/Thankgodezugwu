@@ -23,8 +23,12 @@ I am a graduate with degree in Data Science and Analytics, passionate about tran
 ### Education
 
 - **Degree**: [Masters Degree] in Data Science and Analytics
-- **University**: [University of Hertfordshire]
+- **University**: [University of Hertfordshire, United Kingdom]
 - **Graduation Year**: [2023]
+
+- - **Degree**: [Masters Degree] in Computer Science
+- **University**: [Michael Okpara University of Agriculture, Umudike, Nigeria]
+- **Graduation Year**: [2017]
 
 ### Certifications
 
