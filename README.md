@@ -9,7 +9,7 @@ I am a graduate with degree in Data Science and Analytics, passionate about tran
 ### Skills
 
 - **Data Analysis**: Proficient in exploring and analyzing structured and unstructured data using statistical techniques and programming languages such as Python and R.
-- **Data Visualization**: Experienced in creating compelling visualizations using tools like Matplotlib, Seaborn, and Tableau to communicate complex insights in a clear and concise manner.
+- **Data Visualization**: Experienced in creating compelling visualizations using tools like Matplotlib, Seaborn, Excel and PowerBI to communicate complex insights in a clear and concise manner.
 - **Machine Learning**: Familiar with machine learning algorithms and frameworks, including scikit-learn and TensorFlow. Capable of building predictive models and conducting feature engineering.
 - **SQL**: Proficient in writing SQL queries for data extraction, transformation, and loading (ETL) processes.
 - **Data Cleaning and Preprocessing**: Skilled in cleaning and preprocessing data to ensure its quality and suitability for analysis.
