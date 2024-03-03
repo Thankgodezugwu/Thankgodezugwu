@@ -17,8 +17,10 @@ I am a graduate with degree in Data Science and Analytics, passionate about tran
 
 ### Projects
 
-- [Data Analysis Project](https://github.com/Thankgodezugwu/Data-Analysis): Description of the project, the problem addressed, and the tools/techniques used.
-- [Machine Learning](link_to_project_2): Brief description of the project, your role, and the impact of your contributions.
+- ### [Data Analysis Project](https://github.com/Thankgodezugwu/Data-Analysis):
+  - These Data Analysis projects have been developed with the primary objective of highlighting my expertise in leveraging technical skills, including Python, MySQL, Excel, and PowerBI, to address real-world data-related challenges. They represent a subset of my broader project portfolio, reflective of my dedicated and continuous efforts in delivering impactful solutions across various initiatives. [Click here to view](https://github.com/Thankgodezugwu/Data-Analysis)
+- ### [Data Science/Machine Learning Projects](link_to_project_2):
+  - These Data Science projects aim to showcase my proficiency in cutting-edge technologies and methodologies. By leveraging computer programming languages such as SQL and Python within Jupiter Lab, alongside essential packages like numpy, Pandas, matplotlib, and scikit-learn, my projects span diverse domains including data preprocessing, visualization, Natural Language Processing, Machine Learning, Neural Networks, Deep Learning, and Generative AI. Each project is strategically designed to address real-world data science challenges, serving as a testament not only to my technical expertise but also to my unwavering commitment to delivering impactful solutions. [Click here to view](https://github.com/Thankgodezugwu/Data-Analysis).
 
 ### Education
 
@@ -26,13 +28,10 @@ I am a graduate with degree in Data Science and Analytics, passionate about tran
 - **University**: [University of Hertfordshire, United Kingdom]
 - **Graduation Year**: [2023]
 
-- - **Degree**: [Masters Degree] in Computer Science
+- **Degree**: [Bachelors Degree] in Computer Science
 - **University**: [Michael Okpara University of Agriculture, Umudike, Nigeria]
 - **Graduation Year**: [2017]
 
-### Certifications
-
-- [Google Data Analytics Professional Certificate](link_to_certification_1): Brief description and relevance to data analytics.
 
 ### Contact
 
