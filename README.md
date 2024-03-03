@@ -21,7 +21,10 @@ I am a dedicated Data enthusiast with a degree in Data Science and Analytics, dr
   - These Data Analysis projects have been developed with the primary objective of highlighting my expertise in leveraging technical skills, including Python, MySQL, Excel, and PowerBI, to address real-world data-related challenges. They represent a subset of my broader project portfolio, reflective of my dedicated and continuous efforts in delivering impactful solutions across various initiatives. [Click here to view](https://github.com/Thankgodezugwu/Data-Analysis)
 - ### [Data Science/Machine Learning Projects](https://github.com/Thankgodezugwu?tab=repositories):
   - These Data Science projects aim to showcase my proficiency in cutting-edge technologies and methodologies. By leveraging computer programming languages such as SQL and Python within Jupiter Lab, alongside essential packages like numpy, Pandas, matplotlib, and scikit-learn, my projects span diverse domains including data preprocessing, visualization, Natural Language Processing, Machine Learning, Neural Networks, Deep Learning, and Generative AI. Each project is strategically designed to address real-world data science challenges, serving as a testament not only to my technical expertise but also to my unwavering commitment to delivering impactful solutions. [Click here to view](https://github.com/Thankgodezugwu?tab=repositories).
-
+- ### [Project in Progress](https://github.com/Thankgodezugwu?tab=repositories)
+  -	Customer Review Sentiment Analysis using NLP (In Progress).
+- ### [Proposed Project](https://github.com/Thankgodezugwu?tab=repositories)
+  -	Identification of the Psychological State of Human Subject with Machine Learning Algorithm (Proposed).
 ### Education
 
 - **Degree**: [Masters Degree] in Data Science and Analytics
