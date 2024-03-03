@@ -4,7 +4,7 @@
 
 ### About Me
 
-I am a graduate with degree in Data Science and Analytics, passionate about transforming raw data into meaningful insights. I possess a strong foundation in statistical analysis, data visualization, and machine learning. My goal is to leverage data-driven approaches to solve real-world problems.
+I am a dedicated Data enthusiast with a degree in Data Science and Analytics, driven by a profound passion for transforming raw data into meaningful insights. Armed with a solid foundation in statistical analysis, data visualization, and machine learning, I am committed to leveraging these skills to employ data-driven approaches in solving real-world problems. My overarching goal is to contribute to the ever-evolving field of data science by applying innovative solutions and driving informed decision-making through the power of data.
 
 ### Skills
 
