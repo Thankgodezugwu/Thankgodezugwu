@@ -17,7 +17,7 @@ I am a graduate with degree in Data Science and Analytics, passionate about tran
 
 ### Projects
 
-- [Data Analysis](link_to_project_1): Description of the project, the problem addressed, and the tools/techniques used.
+- [Data Analysis Project]([link_to_project_1](https://github.com/Thankgodezugwu/Data-Analysis)): Description of the project, the problem addressed, and the tools/techniques used.
 - [Machine Learning](link_to_project_2): Brief description of the project, your role, and the impact of your contributions.
 
 ### Education
